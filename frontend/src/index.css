@@ -1,0 +1,20 @@
+
+
+main{
+  min-height: 80vh;
+}
+.logo{
+
+  padding: 0;
+  width: 75px;
+  height: 75px;
+
+}
+
+h3{
+  padding: 1rem;
+}
+.rating span{
+  margin: 0.1rem;
+}
+
